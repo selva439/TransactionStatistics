@@ -1,0 +1,1 @@
+java -jar target/TransactionStatistics-1.0.0-SNAPSHOT.jar
